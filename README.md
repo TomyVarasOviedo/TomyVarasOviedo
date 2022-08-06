@@ -1,5 +1,5 @@
 **Hi, I’m @TomyVarasOviedo**
-- 👀 I’m interested in hacking, aplications adn engineering
+- 👀 I’m interested in hacking, aplications and engineering
 - 🌱 I’m currently learning backend, hacking, linux and operative sistems
 
 
