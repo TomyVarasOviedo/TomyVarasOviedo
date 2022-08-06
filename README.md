@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning backend, hacking, linux and operative sistems
 
 
-    ![mona china](https://img1.picmix.com/output/stamp/normal/9/5/9/3/2093959_0ca00.png)
+    ![mona china](https://panels.twitch.tv/panel-452909319-image-f2f0382a-bdb7-4860-bdfb-7354ac4e5045)
 
 <!---
 TomyVarasOviedo/TomyVarasOviedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
