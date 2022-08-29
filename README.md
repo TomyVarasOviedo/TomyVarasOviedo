@@ -1,6 +1,6 @@
 **Hi, I’m @TomyVarasOviedo**
 - 👀 I’m interested in hacking, aplications and engineering
-- 🌱 I’m currently learning backend, hacking, linux and operative sistems
+- 🌱 I’m currently learning backend, hacking, linux, game design and operative sistems
 
 
     ![mona china](https://panels.twitch.tv/panel-452909319-image-f2f0382a-bdb7-4860-bdfb-7354ac4e5045)
