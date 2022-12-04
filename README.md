@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning backend, hacking, linux, game design and operative sistems
 
 
-    ![mona china](https://panels.twitch.tv/panel-452909319-image-f2f0382a-bdb7-4860-bdfb-7354ac4e5045)
+    ![mona china](https://img.freepik.com/vector-gratis/lindo-perro-shiba-inu-sentado-ilustracion-icono-vector-dibujos-animados-concepto-icono-naturaleza-animal-aislado-vector-premium-estilo-dibujos-animados-plana_138676-3526.jpg?w=2000)
 
 <!---
 TomyVarasOviedo/TomyVarasOviedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
