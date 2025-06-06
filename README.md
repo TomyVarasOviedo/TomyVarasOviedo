@@ -1,6 +1,7 @@
 # **Hi, I’m @TomyVarasOviedo**
-- 👀 I’m interested in hacking, aplications and engineering
+- 👀 I’m interested in hacking, DevOps, aplications and engineering
 - 🌱 I’m currently learning backend, hacking, linux, game design and operative sistems
+- 📒 I'm studying Informatic Enginner
 
 # Languages and Tools:
 <p align="left">  
