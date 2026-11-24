@@ -1,7 +1,7 @@
 # **Hi, I’m @TomyVarasOviedo**
 - 👀 I’m interested in hacking, Machine learning, DevOps, applications and engineering
-- 🌱 I’m backend developer and AI Automatization developer
-- 📒 I'm studying Informatic Enginner
+- 🌱 I’m backend and an AI Automation developer
+- 📒 I'm studying Software Enginner
 - ❤️‍🩹 I love Opensource and Linux ecosystems 
 
 # Languages and Tools:
